@@ -1,0 +1,17 @@
+body {
+    font-family: Helvetica;
+    margin: 50px;
+}
+
+h1 {
+    color: #0099FF;
+    font-size: 25px;
+}/*hex color picker*/
+
+ol {
+    margin-top: -15px;
+}
+
+.intro {
+    font-style: italic;
+}
